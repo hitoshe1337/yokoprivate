@@ -12,7 +12,7 @@
     "ThemeID": 8,
 	"Region": "EN",
     "SupportedContentCreator": "PBxPuvay",
-	"TutorialState": 8,
+	"TutorialState": 0,
 	"DoubleTokenEvent": "false",
 	"CoinShowerEvent": "false",
     "Maintenance": false,
