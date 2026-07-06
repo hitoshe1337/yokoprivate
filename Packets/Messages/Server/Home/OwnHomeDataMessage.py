@@ -46,7 +46,7 @@ class OwnHomeDataMessage(Writer):
         # Unlocked Skins array
         self.writeVint(len(self.player.skins_id))
         for skin_id in self.player.skins_id:
-            self.writeScId(29, skin_id)
+            self.writeScId(0, skin_id)
             
         self.writeVint(0)  # array
 
